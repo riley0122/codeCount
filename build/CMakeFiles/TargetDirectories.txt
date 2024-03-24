@@ -1,3 +1,0 @@
-/home/lucasammer/code_count/build/CMakeFiles/rebuild_cache.dir
-/home/lucasammer/code_count/build/CMakeFiles/edit_cache.dir
-/home/lucasammer/code_count/build/CMakeFiles/codeCount.dir
